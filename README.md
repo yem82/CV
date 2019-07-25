@@ -27,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2019 to July 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -38,17 +38,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Imperial College London (2017 to 2018)
+
+- Creative Writing
+- Discovered how to harness my creativity through story-telling
+
 #### King's College London (2012 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Biomedical Science
+- Student Ambassador
+- Staff-student liason committee
+- Hugh Davey Award for 'student who contributed most to the degree'
 
-#### Any other qualifications
+#### Langley Park School for Boys (2010 to 2012)
+
+- A levels:
+- Chemistry 
+- Biology 
+- English Literature 
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**iwoca** (May 2018 to April 2019)   
+*Payments Advisor*  
+**Solar Media** (June 2017 to Oct 2017)    
+*Conference Producer*  
+**visiongain** (Feb 2016 to Oct 2016)   
+*Pharmaceutical and Medical Devices Industry Analyst*  
