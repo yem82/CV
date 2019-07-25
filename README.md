@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (April 2019 to July 2019)
 
 
-## At a glance:
+##### At a glance:
 
 -	Programming languages - Ruby, Java, JavaScript
 -	Web Development (Rails and Sinatra)
