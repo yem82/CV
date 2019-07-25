@@ -1,5 +1,7 @@
 ## Yemi Adebayo
 
+[Projects](#Projects) | [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/yadebayo/)
+
 I am a life-long learner eager to kick-start a career in software development.
 
 With experience in client services at a FinTech company (iwoca), I became curious as to how and why certain bugs developed. I reported bugs to developers in the form of tech support tickets. A developer on tech support would then liaise with me to understand where the bug was spotted and seek to find the best solution. I asked developers why certain bugs occurred so that I could understand the thought-process required to find the right solution. 
