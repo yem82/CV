@@ -1,6 +1,6 @@
 ## Yemi Adebayo
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/yadebayo/)
+[Projects](#Projects){:target="_blank"} | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/yadebayo/)
 
 I am a life-long learner eager to kick-start a career in software development.
 
