@@ -29,26 +29,46 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (April 2019 to July 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Object oriented principles
+writing clean code
+reading books such as A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) 
+and Practical Object-Oriented Design (Sandi Metz) to assist learning
+
+- Fast, independent learner
+
+Makers has provided me with the tools to become a self-directed learner. 
+
+During the course we had a day to learn any new language we desired. I chose Python and decided to challenge myself by test-driving a fizzbuzz program. I learnt how to do unit testing and write code to pass tests with python (unittest)
+
+Another example, is with the speed I was able to learn how to use javascript to manipulate the DOM 
+Vanilla Javascript notes app
+
+- Great collaborator
+
+The emotional intelligence (EI) curriculum at Makers helped me develop a deeper understanding of empathy, feedback and team communication. Collaboration was especially important during our final team project. I understood that there were many ways to achieve the same result for speech-to-text functionality. I listened to each team-member's opinion of the direction to take and weighed out the positives and potential blockers we will face. I researched Dialogflow API, which has Google Assistant built-in. When I presented the benefits of using this API, the team agreed to integrate the API with our app to allow users to respond to questions with their voice.
+
+•	Programming languages - Ruby, Java, JavaScript
+•	Web Development (Rails and Sinatra)
+•	Mobile Development (Android Studio)
+• Agile/XP
+•	Debugging Web and Mobile Applications
+•	PostgreSQL
+•	OOP, TDD, MVC and CICD
+• Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
 
 #### Imperial College London (2017 to 2018)
 
-- Creative Writing
+- Creative Writing:
 - Discovered how to harness my creativity through story-telling
 
 #### King's College London (2012 to 2015)
 
-- Biomedical Science
+- BSc (Hons) Biomedical Science
 - Student Ambassador
 - Staff-student liason committee
-- Hugh Davey Award for 'student who contributed most to the degree'
+- Achieved the Hugh Davey Award: 'student who contributed most to the degree'
 
 #### Langley Park School for Boys (2010 to 2012)
 
@@ -61,7 +81,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **iwoca** (May 2018 to April 2019)   
 *Payments Advisor*  
+
 **Solar Media** (June 2017 to Oct 2017)    
 *Conference Producer*  
+
 **visiongain** (Feb 2016 to Oct 2016)   
 *Pharmaceutical and Medical Devices Industry Analyst*  
