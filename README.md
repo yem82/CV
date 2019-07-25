@@ -41,10 +41,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Curious and passionate about code.
 
-Object oriented principles
-writing clean code
-reading books such as A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) 
-and Practical Object-Oriented Design (Sandi Metz) to assist learning
+I am continously working on my craft to become a better software engineer. At Makers, I have learnt how to code with best coding practices. Code is written using test-driven development (TDD) and following object oriented principles (OOP) to produce DRY and flexible code.
+
+I have furthed my study of clean code by reading books such as Clean Code: A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) and Practical Object-Oriented Design (Sandi Metz) to assist learning
 
 - Fast, independent learner
 
@@ -74,7 +73,7 @@ Collaboration was especially important during our final team project. I understo
 #### Imperial College London (2017 to 2018)
 
 - Creative Writing:
-- Discovered how to harness my creativity through story-telling
+- Discovered how to harness my creativity through storytelling
 
 #### King's College London (2012 to 2015)
 
