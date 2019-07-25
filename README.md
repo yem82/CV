@@ -6,6 +6,16 @@ With experience in client services at a FinTech company (iwoca), I became curiou
 
 My curiosity for solving problems with code led me to Makers Academy (a 16-week coding bootcamp). After weeks of intensive study, I am able to develop programs, web and mobile apps using agile methodologies within teams. I am now keen to join a tech team who is passionate about learning and writing clean code.
 
+
+## Projects
+
+| Project | Description | Technologies |
+|-|-|-|
+| [Woke_App](https://github.com/yem82/woke-platypus) | Makers final project. Around 20% of fatal road accidents are caused by fatigue. Keeping focus while driving long distances is difficult. The woke app is a hands-free mobile trivia app, allowing users to use voice to answer questions read out to them, keeping the driver awake and active behind the wheel | Java, Android Studio, Circle CI |
+| [Acebook](https://github.com/yem82/acebook-spacebook) | Built a Facebook clone using CICD in 2 weeks as part of a team project | Ruby on Rails, HTML, SCSS, Heroku, Travis CI, RSpec, Capybara |
+| [Notes](https://github.com/yem82/notes) | Built a single-page web app as part of a team project.| Vanilla JS, HTML, customised testing framework |
+
+
 ## Skills
 
 #### This Skill
