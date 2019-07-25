@@ -41,6 +41,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (April 2019 to July 2019)
 
+
+##At a glance:
+
+-	Programming languages - Ruby, Java, JavaScript
+-	Web Development (Rails and Sinatra)
+-	Mobile Development (Android Studio)
+- Agile/XP
+-	Debugging Web and Mobile Applications
+-	PostgreSQL
+-	OOP, TDD, MVC and CICD
+- Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
+
 - Curious and passionate about code.
 
 I am continously working on my craft to become a better software engineer. At Makers, I have learnt how to code with best coding practices. Code is written using test-driven development (TDD) and following object oriented principles (OOP) to produce DRY and flexible code.
@@ -61,15 +73,6 @@ The emotional intelligence (EI) curriculum at Makers helped me develop a deeper 
 
 
 Collaboration was especially important during our final team project. I understood that there were many ways to achieve the same result for speech-to-text functionality. I listened to each team-member's opinion for the direction to take and weighed out the positives and potential blockers we will face. I researched Dialogflow API, which has Google Assistant built-in. The team agreed to integrate this API with our app to allow users to respond to questions with their voice.
-
--	Programming languages - Ruby, Java, JavaScript
--	Web Development (Rails and Sinatra)
--	Mobile Development (Android Studio)
-- Agile/XP
--	Debugging Web and Mobile Applications
--	PostgreSQL
--	OOP, TDD, MVC and CICD
-- Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
 
 #### Imperial College London (2017 to 2018)
 
