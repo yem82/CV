@@ -43,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 I am continously working on my craft to become a better software engineer. At Makers, I have learnt how to code with best coding practices. Code is written using test-driven development (TDD) and following object oriented principles (OOP) to produce DRY and flexible code.
 
-I have furthed my study of clean code by reading books such as Clean Code: A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) and Practical Object-Oriented Design (Sandi Metz) to assist learning
+I have furthed my study of clean code by reading books such as Clean Code: A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) and Practical Object-Oriented Design (Sandi Metz).
 
 - Fast, independent learner
 
