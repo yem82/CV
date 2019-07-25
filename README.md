@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (April 2019 to July 2019)
 
 
-##### At a glance:
+###### At a glance:
 
 -	Programming languages - Ruby, Java, JavaScript
 -	Web Development (Rails and Sinatra)
@@ -54,22 +54,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
 
 
+####### Curious and passionate about code:
 
-- Curious and passionate about code.
 
 I am continously working on my craft to become a better software engineer. At Makers, I have learnt how to code with best coding practices. Code is written using test-driven development (TDD) and following object oriented principles (OOP) to produce DRY and flexible code.
 
 I have furthed my study of clean code by reading books such as Clean Code: A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) and Practical Object-Oriented Design (Sandi Metz).
 
-- Fast, independent learner
+####### Fast, independent learner:
 
 Makers has provided me with the tools to become a self-directed learner. 
 
 During the course we had a day to learn any new language we desired. I chose Python and decided to challenge myself by test-driving a fizzbuzz program. I learnt how to do unit testing and write code to pass tests with python (unittest)
 
-Another example of my fast learning was with the speed I was able to learn how to use javascript to manipulate the DOM in the VanillaJS [Notes App](https://github.com/yem82/notes) 
+Another example of my quick learning was when I learnt how to use javascript to manipulate the DOM in the [Notes App](https://github.com/yem82/notes) 
 
-- Great collaborator
+####### Great collaborator:
 
 The emotional intelligence (EI) curriculum at Makers helped me develop a deeper understanding of empathy, feedback and team communication. 
 
