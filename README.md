@@ -65,7 +65,7 @@ I have furthed my study of clean code by reading books such as Clean Code: A Han
 
 Makers has provided me with the tools to become a self-directed learner. 
 
-During the course we had a day to learn any new language we desired. I chose Python and decided to challenge myself by test-driving a fizzbuzz program. I learnt how to do unit testing and write code to pass tests with python (unittest)
+During the course we had a day to learn any new language we desired. I chose Python and decided to challenge myself by test-driving a fizzbuzz program. I learnt how to do unit testing (unittest) and write code to pass tests with Python
 
 Another example of my quick learning was when I learnt how to use javascript to manipulate the DOM in the [Notes App](https://github.com/yem82/notes) 
 
