@@ -50,7 +50,7 @@ Vanilla Javascript notes app
 The emotional intelligence (EI) curriculum at Makers helped me develop a deeper understanding of empathy, feedback and team communication. 
 
 
-Collaboration was especially important during our final team project. I understood that there were many ways to achieve the same result for speech-to-text functionality. I listened to each team-member's opinion of the direction to take and weighed out the positives and potential blockers we will face. I researched Dialogflow API, which has Google Assistant built-in. The team agreed to integrate the API with our app to allow users to respond to questions with their voice.
+Collaboration was especially important during our final team project. I understood that there were many ways to achieve the same result for speech-to-text functionality. I listened to each team-member's opinion for the direction to take and weighed out the positives and potential blockers we will face. I researched Dialogflow API, which has Google Assistant built-in. The team agreed to integrate this API with our app to allow users to respond to questions with their voice.
 
 -	Programming languages - Ruby, Java, JavaScript
 -	Web Development (Rails and Sinatra)
