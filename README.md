@@ -1,6 +1,10 @@
-## Your Name
+## Yemi Adebayo
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a life-long learner eager to kick-start a career in software development.
+
+With experience in client services at a FinTech company (iwoca), I became curious as to how and why certain bugs developed. I reported bugs to developers in the form of tech support tickets. A developer on tech support would then liaise with me to understand where the bug was spotted and seek to find the best solution. I asked developers why certain bugs occurred so that I could understand the thought-process required to find the right solution. 
+
+My curiosity for solving problems with code led me to Makers Academy (a 16-week coding bootcamp). After weeks of intensive study, I am able to develop programs, web and mobile apps using agile methodologies within teams. I am now keen to join a tech team who is passionate about learning and writing clean code.
 
 ## Skills
 
@@ -34,7 +38,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King's College London (2012 to 2015)
 
 - Subject, any specialisms
 - Grade
