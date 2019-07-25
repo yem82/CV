@@ -51,8 +51,7 @@ Makers has provided me with the tools to become a self-directed learner.
 
 During the course we had a day to learn any new language we desired. I chose Python and decided to challenge myself by test-driving a fizzbuzz program. I learnt how to do unit testing and write code to pass tests with python (unittest)
 
-Another example, is with the speed I was able to learn how to use javascript to manipulate the DOM 
-Vanilla Javascript notes app
+Another example of my fast learning was with the speed I was able to learn how to use javascript to manipulate the DOM in the VanillaJS [Notes_App](https://github.com/yem82/notes) 
 
 - Great collaborator
 
