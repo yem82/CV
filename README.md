@@ -67,7 +67,7 @@ Makers has provided me with the tools to become a self-directed learner.
 
 During the course we had a day to learn any new language we desired. I chose Python and decided to challenge myself by test-driving a [fizzbuzz program](https://github.com/yem82/Fizzbuzz_python). I learnt how to do unit testing (unittest) and write code to pass tests with Python.
 
-Another example of my quick learning was when I learnt how to use javascript to manipulate the DOM in the [Notes App](https://github.com/yem82/notes).
+Another example of my quick learning was when I learnt how to use JavaScript to manipulate the DOM in the [Notes App](https://github.com/yem82/notes).
 
 ###### Great collaborator:
 
@@ -85,7 +85,7 @@ Collaboration was especially important during our final team project. I understo
 
 #### King's College London (2012 to 2015)
 
-######  BSc (Hons) Biomedical Science
+######  BSc (Hons) Biomedical Science:
 
 - Student Ambassador
 - Staff-student liason committee
