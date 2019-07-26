@@ -39,10 +39,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-### Makers Academy (April 2019 to July 2019)
+#### Makers Academy (April 2019 to July 2019)
 
 
-#### At a glance:
+###### At a glance:
 
 -	Programming languages - Ruby, Java, JavaScript
 -	Web Development (Rails and Sinatra)
@@ -54,14 +54,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
 
 
-#### Curious and passionate about code:
+###### Curious and passionate about code:
 
 
 I am continously working on my craft to become a better software engineer. At Makers, I have learnt how to code with best coding practices. Code is written using test-driven development (TDD) and following object oriented principles (OOP) to produce DRY and flexible code.
 
 I have furthed my study of clean code by reading books such as Clean Code: A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) and Practical Object-Oriented Design (Sandi Metz).
 
-#### Fast, independent learner:
+###### Fast, independent learner:
 
 Makers has provided me with the tools to become a self-directed learner. 
 
@@ -69,26 +69,26 @@ During the course we had a day to learn any new language we desired. I chose Pyt
 
 Another example of my quick learning was when I learnt how to use javascript to manipulate the DOM in the [Notes App](https://github.com/yem82/notes).
 
-#### Great collaborator:
+###### Great collaborator:
 
 The emotional intelligence (EI) curriculum at Makers helped me develop a deeper understanding of empathy, feedback and team communication. 
 
 
 Collaboration was especially important during our final team project. I understood that there were many ways to achieve the same result for speech-to-text functionality. I listened to each team-member's opinion for the direction to take and weighed out the positives and potential blockers we will face. I researched Dialogflow API, which has Google Assistant built-in. The team agreed to integrate this API with our app to allow users to respond to questions with their voice.
 
-### Imperial College London (2017 to 2018)
+#### Imperial College London (2017 to 2018)
 
 - Creative Writing:
 - Discovered how to harness my creativity through storytelling
 
-### King's College London (2012 to 2015)
+#### King's College London (2012 to 2015)
 
 - BSc (Hons) Biomedical Science
 - Student Ambassador
 - Staff-student liason committee
 - Achieved the Hugh Davey Award: 'student who contributed most to the degree'
 
-### Langley Park School for Boys (2010 to 2012)
+#### Langley Park School for Boys (2010 to 2012)
 
 - A levels:
 - Chemistry 
