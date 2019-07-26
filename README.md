@@ -101,6 +101,9 @@ Collaboration was especially important during our final team project. I understo
 
 ## Experience
 
+**Makers** (July 2019 to present)   
+*Junior Software Developer*  
+
 **iwoca** (May 2018 to April 2019)   
 *Payments Advisor*  
 
