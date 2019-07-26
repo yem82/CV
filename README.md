@@ -78,7 +78,8 @@ Collaboration was especially important during our final team project. I understo
 
 #### Imperial College London (2017 to 2018)
 
-- Creative Writing:
+###### Creative Writing:
+
 - Discovered how to harness my creativity through storytelling
 
 #### King's College London (2012 to 2015)
@@ -90,7 +91,8 @@ Collaboration was especially important during our final team project. I understo
 
 #### Langley Park School for Boys (2010 to 2012)
 
-- A levels:
+######  A levels:
+
 - Chemistry 
 - Biology 
 - English Literature 
