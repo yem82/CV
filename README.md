@@ -84,7 +84,8 @@ Collaboration was especially important during our final team project. I understo
 
 #### King's College London (2012 to 2015)
 
-- BSc (Hons) Biomedical Science
+######  BSc (Hons) Biomedical Science
+
 - Student Ambassador
 - Staff-student liason committee
 - Achieved the Hugh Davey Award: 'student who contributed most to the degree'
