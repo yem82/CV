@@ -80,7 +80,7 @@ Collaboration was especially important during our final team project. I understo
 
 ###### Creative Writing:
 
-- Evening classes for two semesters
+- Weekly evening classes for two semesters
 - Discovered how to harness my creativity through storytelling
 
 #### King's College London (2012 to 2015)
