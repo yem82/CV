@@ -20,40 +20,6 @@ My curiosity for solving problems with code led me to Makers Academy (a 16-week 
 
 ## Skills
 
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (April 2019 to July 2019)
-
-
-###### At a glance:
-
--	Programming languages - Ruby, Java, JavaScript
--	Web Development (Rails and Sinatra)
--	Mobile Development (Android Studio)
-- Agile/XP
--	Debugging Web and Mobile Applications
--	PostgreSQL
--	OOP, TDD, MVC and CICD
-- Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
-
-
 ###### Curious and passionate about code:
 
 
@@ -75,6 +41,22 @@ The emotional intelligence (EI) curriculum at Makers helped me develop a deeper 
 
 
 Collaboration was especially important during our final team project. I understood that there were many ways to achieve the same result for speech-to-text functionality. I listened to each team-member's opinion for the direction to take and weighed out the positives and potential blockers we will face. I researched Dialogflow API, which has Google Assistant built-in. The team agreed to integrate this API with our app to allow users to respond to questions with their voice.
+
+## Education
+
+#### Makers Academy (April 2019 to July 2019)
+
+
+###### At a glance:
+
+-	Programming languages - Ruby, Java, JavaScript
+-	Web Development (Rails and Sinatra)
+-	Mobile Development (Android Studio)
+- Agile/XP
+-	Debugging Web and Mobile Applications
+-	PostgreSQL
+-	OOP, TDD, MVC and CICD
+- Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
 
 #### Imperial College London (2017 to 2018)
 
