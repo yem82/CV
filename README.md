@@ -20,14 +20,14 @@ My curiosity for solving problems with code led me to Makers Academy (a 16-week 
 
 ## Skills
 
-###### Curious and passionate about code:
+#### Curious and passionate about code:
 
 
 I am continously working on my craft to become a better software engineer. At Makers, I have learnt how to code with best coding practices. Code is written using test-driven development (TDD) and following object oriented principles (OOP) to produce DRY and flexible code.
 
 I have furthed my study of clean code by reading books such as Clean Code: A Handbook of Agile Software Craftsmanship (Authored by Robert C. Martin) and Practical Object-Oriented Design (Sandi Metz).
 
-###### Fast, independent learner:
+#### Fast, independent learner:
 
 Makers has provided me with the tools to become a self-directed learner. 
 
@@ -35,7 +35,7 @@ During the course we had a day to learn any new language we desired. I chose Pyt
 
 Another example of my quick learning was when I learnt how to use JavaScript to manipulate the DOM in the [Notes App](https://github.com/yem82/notes).
 
-###### Great collaborator:
+#### Great collaborator:
 
 The emotional intelligence (EI) curriculum at Makers helped me develop a deeper understanding of empathy, feedback and team communication. 
 
