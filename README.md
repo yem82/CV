@@ -13,9 +13,9 @@ My curiosity for solving problems with code led me to Makers Academy (a 16-week 
 
 | Project | Description | Technologies |
 |-|-|-|
-| [Portfolio](https://github.com/yem82/portfolio) | A personal portfolio built from scratch and deployed to http://yemiadebayo.com/ to showcase my projects and interests  | React.js, Express.js, Node.js, HTML and SCSS |
-| [Woke App](https://github.com/yem82/woke-platypus) | Makers final project. Around 20% of fatal road accidents are caused by fatigue. Keeping focus while driving long distances is difficult. The woke app is a hands-free mobile trivia app, allowing drivers to use voice to answer questions read out to them. | Java, Android Studio, Circle CI |
-| [Acebook](https://github.com/yem82/acebook-spacebook) | Team project. Built a Facebook clone using CICD | Ruby on Rails, HTML and SCSS, Heroku, Travis CI, RSpec, Capybara |
+| [Portfolio](https://github.com/yem82/portfolio) | A personal portfolio built from scratch and [deployed](http://yemiadebayo.com/) to showcase my projects and interests  | React.js, Express.js, Node.js, HTML and SCSS |
+| [Woke App](https://github.com/yem82/woke-platypus) | Makers final project. Around 20% of fatal road accidents are caused by fatigue. Keeping focus while driving long distances is difficult. The woke app is a hands-free mobile trivia app, allowing drivers to use voice to answer questions read out to them. | Java, Android Studio and Circle CI |
+| [Acebook](https://github.com/yem82/acebook-spacebook) | Team project. Built a [Facebook clone](https://acebook-spacebook.herokuapp.com) using CICD | Ruby on Rails, HTML and SCSS, Heroku, Travis CI, RSpec and Capybara |
 | [Notes](https://github.com/yem82/notes) | Team Project. Built a single-page, note-taking web app.| Vanilla JS, HTML and a customised testing framework |
 
 
