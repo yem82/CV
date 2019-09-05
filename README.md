@@ -50,14 +50,14 @@ Collaboration was especially important during our final team project. I understo
 
 ###### At a glance:
 
--	Programming languages - Ruby, Java, JavaScript
--	Web Development (Rails and Sinatra)
+-	Programming languages - JavaScript, Ruby and Java
+-	Web Development (React.js, Node.js and Ruby on Rails)
 -	Mobile Development (Android Studio)
 - Agile/XP
 -	Debugging Web and Mobile Applications
 -	PostgreSQL
 -	OOP, TDD, MVC and CICD
-- Testing suites - RSpec, Jasmine, Capybara, JUnit, Espresso
+- Testing suites - RSpec, Jasmine, Cypress, Capybara, JUnit and Espresso
 
 #### Imperial College London (2017 to 2018)
 
